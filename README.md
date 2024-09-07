@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a React-Springboot project<br>🌱 I’m currently learning Flutter<br>⚡ I am a nocturnal librocubicularist.
+🔭 I’m currently working on a React-Springboot project<br>🌱 I’m currently learning Flutter and .NET <br>⚡ I am a nocturnal librocubicularist.
 
 
 
