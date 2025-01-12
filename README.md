@@ -8,15 +8,15 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 57 Contributions in the Year 2025
+> 🏆 80 Contributions in the Year 2025
  > 
-> 📦 245.1 kB Used in Github's Storage 
+> 📦 249.2 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories
  > 
@@ -25,22 +25,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
-🌆 Daytime    44 commits     ███████░░░░░░░░░░░░░░░░░░   30.34% 
-🌃 Evening    75 commits     █████████████░░░░░░░░░░░░   51.72% 
-🌙 Night      17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72%
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
+🌆 Daytime    52 commits     ████████░░░░░░░░░░░░░░░░░   32.91% 
+🌃 Evening    80 commits     ████████████░░░░░░░░░░░░░   50.63% 
+🌙 Night      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       31 commits     █████░░░░░░░░░░░░░░░░░░░░   21.38% 
-Tuesday      17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
-Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Thursday     31 commits     █████░░░░░░░░░░░░░░░░░░░░   21.38% 
-Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Saturday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Sunday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72%
+Monday       31 commits     █████░░░░░░░░░░░░░░░░░░░░   19.62% 
+Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
+Thursday     31 commits     █████░░░░░░░░░░░░░░░░░░░░   19.62% 
+Friday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
+Saturday     29 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
+Sunday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39%
 
 ```
 
