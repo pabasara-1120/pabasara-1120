@@ -16,6 +16,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 141 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -49,16 +51,16 @@ Sunday                   76 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Hvibes                   55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -78,7 +80,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pabasara-1120/pabasara-1120/master/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 18:41:23 UTC
+ Last Updated on 12/02/2025 18:42:11 UTC
 <!--END_SECTION:waka-->
 
 
